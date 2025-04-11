@@ -1,6 +1,6 @@
 ### Olá meu nome é Arthur Antonio Soares e sou um entusiasta de TI 💻
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arthurelpsy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/arthurelpsy/))
 
 ### Minhas principais linguagens competentes em ascensão
 
